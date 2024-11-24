@@ -1,0 +1,16 @@
+Create a Python script using the transformers library to implement a GPT-2 medium chatbot. It should:
+
+Load the GPT-2 medium model and tokenizer.
+Use a text generation pipeline to handle responses.
+Define a ChatBot class to manage context and generate responses.
+Maintain a conversational format by appending user inputs and bot responses to the context.
+Demonstrate the chatbot with a multi-turn conversation example.
+
+
+create a physics simulation in java script of container full of gas molecules.the molecules must be a simple diatomic helium gas molecules.also in addition to collision physics also add corrections for vanderwals forces and apply distortion to the machanics of the molecules based on these forces
+
+create a simple 2d demonstration of the above in javascript to the level of complexity that you can code
+
+using the mass of the helium molecules and the speed of the gas molecules have label that outputs the temperature of the box at any instant,use statistical mechanics to calculate the temperature
+
+
